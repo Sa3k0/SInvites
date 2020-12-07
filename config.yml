@@ -1,0 +1,5 @@
+mainprefix: "s!"
+defaultjoinmessage: "{user} vient de nous rejoindre ! Il est invité par {Inviter} ({inv} Invites)"
+defaultleavemessage: "{user} vient de nous quitter, Inviter par {inviter}"
+token: "NzM3NzMyMzQxMDEwNjYxNDI2.XyBoyA.7WasdEPgmOC34D0Y--W19xAhBkE"
+color: "GREEN"
